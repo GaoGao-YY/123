@@ -286,9 +286,6 @@ export default function App() {
             </div>
             <span className="font-bold text-lg tracking-tight">AI Build</span>
           </div>
-          <p className="text-slate-500 text-sm">
-            © 2026 AI Web Generation Workflow. 基于 PDF 附件内容生成。
-          </p>
           <div className="flex gap-6">
             <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors"><Github className="w-5 h-5" /></a>
             <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors"><Globe className="w-5 h-5" /></a>
